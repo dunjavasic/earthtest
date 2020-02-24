@@ -42,7 +42,7 @@ scene.add(meshEarth);
 materialEarth.map = THREE.ImageUtils.loadTexture('images/earthblue.jpg');
 
 
-var texture = THREE.ImageUtils.loadTexture( 'images/dark.jpg' );
+var texture = THREE.ImageUtils.loadTexture( 'images/dark2.jpg' );
         var backgroundMesh = new THREE.Mesh(
             new THREE.PlaneGeometry(2, 2, 0),
             new THREE.MeshBasicMaterial({
