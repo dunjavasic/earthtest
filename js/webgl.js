@@ -28,7 +28,7 @@ scene.add(light);
 // var light2 = new THREE.DirectionalLight(0xFFF9D5, .9, 100);
 // scene.add(light2);
 
-var light3 = new THREE.AmbientLight( 0x404040, 3 ); // soft white light
+var light3 = new THREE.AmbientLight( 0x404040, 2 ); // soft white light
 scene.add( light3 );
 
 // Earth sphere
